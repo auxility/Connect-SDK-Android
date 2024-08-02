@@ -8,5 +8,5 @@ url=https://github.com/auxility/Connect-SDK-Android-Google-Cast.git
 	branch = master
 [submodule "modules/firetv"]
 	path = modules/firetv
-	url = https://github.com/ConnectSDK/Connect-SDK-Android-FireTV.git
+url=https://github.com/auxility/Connect-SDK-Android-FireTV.git
     branch = master
