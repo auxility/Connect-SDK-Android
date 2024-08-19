@@ -125,7 +125,7 @@ dependencies {
     implementation 'javax.jmdns:jmdns:3.4.1'
 
     implementation fileTree(dir: 'modules/firetv/libs', include: '*.jar')
-
+    implementation project(':logger')
 
     implementation 'androidx.mediarouter:mediarouter:1.2.0'
     implementation 'androidx.annotation:annotation:1.0.0'
