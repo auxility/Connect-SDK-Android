@@ -116,7 +116,7 @@ android {
         targetCompatibility JavaVersion.VERSION_17
     }
     useLibrary 'org.apache.http.legacy'
-    ndkVersion "22.1.7171670"
+    ndkVersion "29.0.14206865"
 }
 
 android.testOptions.unitTests.all {
